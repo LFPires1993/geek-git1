@@ -5,7 +5,7 @@ Um ou dois paragrafos sobre a finalidade do projeto
 
 >uma imagem do projeto
 
-### INstalação
+### Instalação
 
 Mac OS X & Linux:
 
